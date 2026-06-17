@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoEjaCast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a149129bffb4e109dec756172eede60779245011")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981c4490cf940cc3f06d15ff1c9016c92ded2c8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoEjaCast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoEjaCast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

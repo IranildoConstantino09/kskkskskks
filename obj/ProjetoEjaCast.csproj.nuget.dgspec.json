@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\10748.115\\Documents\\EjaCast\\projeto-ejacast\\ProjetoEjaCast.csproj": {}
+    "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\ProjetoEjaCast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\10748.115\\Documents\\EjaCast\\projeto-ejacast\\ProjetoEjaCast.csproj": {
+    "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\ProjetoEjaCast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\10748.115\\Documents\\EjaCast\\projeto-ejacast\\ProjetoEjaCast.csproj",
+        "projectUniqueName": "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\ProjetoEjaCast.csproj",
         "projectName": "ProjetoEjaCast",
-        "projectPath": "C:\\Users\\10748.115\\Documents\\EjaCast\\projeto-ejacast\\ProjetoEjaCast.csproj",
+        "projectPath": "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\ProjetoEjaCast.csproj",
         "packagesPath": "C:\\Users\\10748.115\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\10748.115\\Documents\\EjaCast\\projeto-ejacast\\obj\\",
+        "outputPath": "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\10748.115\\AppData\\Roaming\\NuGet\\NuGet.Config"
