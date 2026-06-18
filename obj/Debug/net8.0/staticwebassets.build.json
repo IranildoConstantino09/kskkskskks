@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pk38Zikh/1oUF6hz73Zi6uc8XtziigkxmDdDLhQdEsE=",
+  "Hash": "6PmAFekd7Q9MTOz5ip0F/3866/9BKHo54geIgish5eA=",
   "Source": "ProjetoEjaCast",
   "BasePath": "_content/ProjetoEjaCast",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\episodidos.css"
+    },
+    {
+      "Identity": "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\wwwroot\\css\\index.css",
+      "SourceId": "ProjetoEjaCast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\wwwroot\\",
+      "BasePath": "_content/ProjetoEjaCast",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
       "Identity": "C:\\Users\\10748.115\\Documents\\EJA_PODCAST\\kskkskskks\\wwwroot\\css\\layout.css",
